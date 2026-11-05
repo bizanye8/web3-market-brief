@@ -1,5 +1,6 @@
 # Web3 Market Brief
 
+[![Daily Brief](https://github.com/bizanye8/web3-market-brief/actions/workflows/daily-brief.yml/badge.svg)](https://github.com/bizanye8/web3-market-brief/actions/workflows/daily-brief.yml)
 ![Updates](https://img.shields.io/badge/updates-daily%2009%3A15%20CST-3fb950?style=flat-square)
 ![Automation](https://img.shields.io/badge/automation-GitHub%20Actions-2f81f7?style=flat-square)
 ![API keys](https://img.shields.io/badge/API%20keys-none%20required-f0b429?style=flat-square)
