@@ -1,23 +1,23 @@
 # Web3 Market Brief — 2026-11-06
 
-*Generated 2026-11-06 04:00 UTC (12:00 CST) · Sources: Binance public data, OKX public API, alternative.me*
+*Generated 2026-11-06 07:52 UTC (15:52 CST) · Sources: Binance public data, OKX public API, alternative.me*
 
 ## Prices
 
 | Asset | Price | 24h | 7d | 30d | Trend (30d) |
 |---|---|---|---|---|---|
-| **BTC** | $75,887.58 | -5.76% | -1.92% | -8.92% | <img src="assets/spark-BTC.svg" width="180"> |
-| **ETH** | $2,234.70 | -7.78% | -0.48% | -13.19% | <img src="assets/spark-ETH.svg" width="180"> |
-| **SOL** | $89.71 | -6.78% | -6.92% | -22.86% | <img src="assets/spark-SOL.svg" width="180"> |
-| **SUI** | $0.8592 | -7.74% | -5.08% | -23.85% | <img src="assets/spark-SUI.svg" width="180"> |
+| **BTC** | $75,653.99 | -5.93% | -2.23% | -9.22% | <img src="assets/spark-BTC.svg" width="180"> |
+| **ETH** | $2,229.67 | -7.71% | -0.71% | -13.38% | <img src="assets/spark-ETH.svg" width="180"> |
+| **SOL** | $89.58 | -6.64% | -7.03% | -22.96% | <img src="assets/spark-SOL.svg" width="180"> |
+| **SUI** | $0.8575 | -7.06% | -5.27% | -24.00% | <img src="assets/spark-SUI.svg" width="180"> |
 
 ## Perpetual funding (per 8h, OKX)
 
 | Market | Funding | Annualized (approx.) |
 |---|---|---|
-| BTC-USDT perp | +0.0026% | +2.8% |
-| ETH-USDT perp | +0.0031% | +3.4% |
-| SOL-USDT perp | +0.0057% | +6.3% |
+| BTC-USDT perp | +0.0029% | +3.2% |
+| ETH-USDT perp | +0.0018% | +2.0% |
+| SOL-USDT perp | +0.0055% | +6.0% |
 
 ## Sentiment
 
